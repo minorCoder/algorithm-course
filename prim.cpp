@@ -56,6 +56,6 @@ void prim(int n){
 }
 
 int main(){
-		prim(5);
+	prim(5);
 	return 0;
 }
